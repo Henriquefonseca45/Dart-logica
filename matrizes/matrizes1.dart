@@ -13,6 +13,8 @@ void main(List<String> args) {
     [7, 8]
   ];
 
+  int numeros = 25;
+
   // print(matriz);
 
   //acessando elementos
